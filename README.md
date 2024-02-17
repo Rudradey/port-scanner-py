@@ -12,7 +12,7 @@ pip install termcolor
 
 Usage
 Clone the repository:
-git clone https://github.com/your-username/port-scanner.git
+git clone https://github.com/Rudradey/port-scanner-py.git
 cd port-scanner
 Run the script:
 python port_scanner.py
