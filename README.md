@@ -13,9 +13,14 @@ pip install termcolor
 Usage
 Clone the repository:
 git clone https://github.com/Rudradey/port-scanner-py.git
+
+
 cd port-scanner
+
 Run the script:
+
 python port_scanner.py
+
 Follow the prompts to input the target website URL.
 
 The script will initiate a port scan using both xterm and the command-line interfaces, displaying the results.
