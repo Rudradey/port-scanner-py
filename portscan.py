@@ -1,10 +1,25 @@
+print("""
+          .-------.
+         /       
+        |  P O R T  |
+        |  F I N D E R  |
+        |           |
+        |           |
+        |           |
+         \-------/
+          / 
+""")
+
+
+
+
 import os
 import sys
 from termcolor import colored, cprint
 
 def get_user_input():
     try:
-        CORE_STRING = colored("[port_scanner]", 'blue')
+        CORE_STRING = colored("[Enter The]", 'blue')
         WEBSITE = input(CORE_STRING + " Website> ").strip()
         return WEBSITE
 
